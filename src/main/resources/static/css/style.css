@@ -1,0 +1,35 @@
+body {
+	background: #808080 !important;
+}
+
+.bg-primary {
+	background: #009688 !important;
+}
+
+.banner{
+	height: 93vh;
+	width: 100%;
+	background:linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)) ,url("../img/banner2.jpg");
+	background-size:cover;
+	color: white;
+	/* background-repeat: no-repeat;
+	background-attachment: fixed; */
+
+}  
+.my-card{
+	padding: 10px;
+	/*  */
+	background: #FFFFFF;	
+}
+.align-text-top{
+	text-align: center;
+}
+/* .form-text text-muted{
+	text-align: left;
+} */
+.lable_name{
+	text-align: left;
+}
+.btn_sub_re{
+	text-align: center;
+}
